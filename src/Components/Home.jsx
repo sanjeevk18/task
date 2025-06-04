@@ -188,8 +188,13 @@ const Home = () => {
                 </div>
             </header>
 
-
-
+            <section className="hero">
+                <div className="overlay">
+                    <h1>Your Partner<br />Beyond Products</h1>
+                    <button className="know-more">Know More</button>
+                </div>
+            </section>
+            {/* 
             <section className="banner">
                 <div className="banner-content">
                     <h1>Welcome to Elin Electronics Ltd</h1>
@@ -200,7 +205,7 @@ const Home = () => {
                             READ MORE <ArrowRight size={16} />
                         </button>
                 </div>
-            </section>
+            </section> */}
 
 
 
